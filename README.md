@@ -1,5 +1,7 @@
 # Mantine Layout Components
 
+This is forked from [mantine-layout-components](https://github.com/kitze/mantine-layout-components) and updated to work with Mantine 7.x.x.
+
 Mantine Layout Components is a collection of React components for creating horizontal and vertical layouts easily.
 
 Built on top of Mantine's [Group](https://mantine.dev/core/group/) and [Stack](https://mantine.dev/core/stack/).
